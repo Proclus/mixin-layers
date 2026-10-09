@@ -5,7 +5,7 @@ Class inheritance with mixin layers
 
 This project is based on [Implementing Layered Designs with Mixin Layers - Smaragdakis, Batory](https://yanniss.github.io/templates.pdf) (12th European Conference on Object-Oriented Programming, ECOOP '98) which explores a new architectural 
 design pattern for object oriented programming. The proposed new layered approach to class interitance involves a collaboration-based design (almost) perfectly fitting
-GUI application implementation with TypeScript.
+GUI application implementation.
 
 ### Sources
 
