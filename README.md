@@ -1,5 +1,5 @@
-# ts-mixin-layers
-TypeScript class inheritance with mixin layers
+# mixin-layers
+Class inheritance with mixin layers
 
 ## Motivation
 
